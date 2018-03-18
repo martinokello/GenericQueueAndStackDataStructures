@@ -1,0 +1,4 @@
+C:\Users\marti\Downloads\Fits Me Test - Backend v2 (start)\FitsMe.Test.StackAndQueue\bin\Debug\FitsMe.Test.StackAndQueue.dll
+C:\Users\marti\Downloads\Fits Me Test - Backend v2 (start)\FitsMe.Test.StackAndQueue\bin\Debug\FitsMe.Test.StackAndQueue.pdb
+C:\Users\marti\Downloads\Fits Me Test - Backend v2 (start)\FitsMe.Test.StackAndQueue\obj\Debug\FitsMe.Test.StackAndQueue.dll
+C:\Users\marti\Downloads\Fits Me Test - Backend v2 (start)\FitsMe.Test.StackAndQueue\obj\Debug\FitsMe.Test.StackAndQueue.pdb
