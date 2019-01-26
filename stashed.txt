@@ -1,0 +1,9 @@
+master Branch added file 1
+
+v2 additions
+
+Adding more things to file 1 in v2.0
+
+To be stashed for version v2
+
+add more to stashed
