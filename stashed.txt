@@ -4,6 +4,6 @@ v2 additions
 
 Adding more things to file 1 in v2.0
 
-Extra additions by the medallion to add to remote
+To be stashed for version v2
 
-to be Stashed.
+add more to stashed
