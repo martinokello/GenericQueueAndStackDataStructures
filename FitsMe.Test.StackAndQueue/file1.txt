@@ -1,0 +1,5 @@
+master Branch added file 1
+
+v2 additions
+
+Adding content in master branch. Alterations that will require a merge
