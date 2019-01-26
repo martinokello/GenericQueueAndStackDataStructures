@@ -1,3 +1,0 @@
-Changes on the master branch.
-
-file 3 added.
