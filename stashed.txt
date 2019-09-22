@@ -16,3 +16,5 @@ change 1 on developer branch
 change 1 on test.
 
 adding to new branch dev/bugfixes/item1
+
+adding to new branch dev/bugfixes/item2
